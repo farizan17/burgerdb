@@ -128,5 +128,37 @@
       "description": "American, Bar, International, European, Vegetarian Friendly",
       "addresses": "Czech Republic"
     }
+  ],
+"voucher": [
+    {
+      "id": 0,
+      "restaurant": "Honest Burgers",
+      "image": "https://i.ibb.co/zHqSWKb/voucher-honest-burger.png",
+      "exp": "16 Ausgust 2022"
+    },
+    {
+      "id": 1,
+      "restaurant": "Krusty Krab",
+      "image": "https://i.ibb.co/gjMFDgD/voucher-krusty-krab.png",
+      "exp": "Lifetime"
+    },
+    {
+      "id": 2,
+      "restaurant": "Slab Burgers",
+      "image": "https://i.ibb.co/fvjJJZg/voucher-slab-burgers.png",
+      "exp": "30 March 2022"
+    },
+    {
+      "id": 3,
+      "restaurant": "The Street",
+      "image": "https://i.ibb.co/GPWsWrv/voucher-the-streets.png",
+      "exp": "25 July 2023"
+    },
+    {
+      "id": 4,
+      "restaurant": "Meat Mission",
+      "image": "https://i.ibb.co/2tjwdkP/voucher-meat-mission.png",
+      "exp": "30 December 2022"
+    }
   ]
 }
